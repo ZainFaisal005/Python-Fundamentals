@@ -1,11 +1,7 @@
 # Python-Fundamentals
 Python-Fundamentals: Master essential Python skills with clear examples and exercises.
 
-Certainly! Below is a detailed discussion you can include in the README file for your "Python-Fundamentals" repository:
 
----
-
-# Python-Fundamentals
 
 ## Overview
 
