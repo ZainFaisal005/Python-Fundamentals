@@ -60,7 +60,3 @@ Contributions are welcome! Whether you're fixing a typo, adding an example, or s
 ## Conclusion
 
 By the end of this journey through Python fundamentals, you will be equipped with the skills needed to confidently tackle more advanced Python concepts and real-world projects. Let's embark on this learning adventure together!
-
----
-
-Feel free to modify the text according to your specific goals and preferences. This README aims to provide a detailed overview of what learners can expect from your repository.
