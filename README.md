@@ -21,28 +21,30 @@ Welcome to the "Python-Fundamentals" repository, a comprehensive guide to master
    - Conditional Statements
    - Loops
 
-### 4. Data Structures
+### 4.Strings:
+
+   - String manipulation and formatting.
+   - String methods and functions.
+
+### 5. Data Structures
    - Lists, Tuples, Dictionaries, Sets
 
-### 5. Functions
+### 6. Functions
    - Defining, parameters, return values
 
-### 6. File Handling
+### 7. File Handling
    - Reading/Writing to Files
    - Handling different file formats
 
-### 7. Exception Handling
+### 8. Exception Handling
    - Try-except blocks
    - Custom exceptions
 
-### 8. Modules and Packages
+### 9. Modules
    - Creating, using, and importing
 
-### 9. Debugging and Testing
-   - Debugging tools, Unit testing
-
-### 10. Basic Projects
-   - Simple projects for hands-on practice
+### 10. Object and Classes
+   - Basics of classes and objects
 
 
 ## Importance
